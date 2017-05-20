@@ -1,0 +1,30 @@
+ .badan-utama{
+        width: 1050px;
+          margin: auto;
+          background-color: white;
+      }
+      body{
+        margin: 0;
+        padding: 0;
+        background-color: #e5ffdf;
+      }
+
+      .headTech{
+        border-left: 15px solid #068f06;
+        height: 30px; 
+        font-style: bold;
+      }
+
+      div.polaroid {
+        width: 250px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        margin: 2px;
+        padding: 0;
+      }
+
+      div.titleBer {
+        padding: 10px;
+      }
+
+      
